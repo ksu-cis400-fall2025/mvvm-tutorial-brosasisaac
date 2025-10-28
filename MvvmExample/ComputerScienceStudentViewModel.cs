@@ -20,7 +20,7 @@ namespace MvvmExample
 
         public string LastName => CSStudent.LastName;
 
-        public double GPA => CSStudent. GPA;
+        public double GPA => CSStudent.GPA;
 
         public IEnumerable<CourseRecord> CourseRecords => CSStudent.CourseRecords; 
 
